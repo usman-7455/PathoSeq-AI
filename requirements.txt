@@ -1,0 +1,23 @@
+# Web App
+streamlit
+
+# Deep Learning & Architecture
+torch
+transformers
+mamba-ssm
+causal-conv1d
+safetensors
+
+# Data & Math
+pandas
+numpy
+tqdm
+scikit-learn
+
+# 3D Visualization
+py3Dmol
+
+# Build tools required for mamba-ssm and causal-conv1d
+ninja
+packaging
+setuptools
